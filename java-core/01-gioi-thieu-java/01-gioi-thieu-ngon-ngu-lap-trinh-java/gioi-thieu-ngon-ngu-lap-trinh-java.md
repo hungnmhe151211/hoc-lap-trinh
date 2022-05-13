@@ -22,7 +22,7 @@ image: https://user-images.githubusercontent.com/29374426/126056559-263bdade-6b6
 position: 1
 ---
 
-Bài này sẽ cung cấp cho các bạn về khái niệm, kiến thức cơ bản liên quan đến việc lập trình ứng dụng bằng ngôn ngữ Java như: lịch sử phát triển của java, các đặc điểm của java, khái niệm máy ảo, cấu trúc của một chương trình đơn giản viết bằng Java cũng như cách xây dựng, dịch và thực thi một chương trình Java.
+Bài này sẽ cung cấp cho các bạn về khái niệm, kiến thức cơ bản liên quan đến việc lập trình ứng dụng bằng ngôn ngữ Java như: lịch sử phát triển của java, các đặc điểm của java, khái niệm máy ảo, cấu trúc của một chương trình đơn giản viết bằng Java cũng như cách xây dựng, dịch và thực thi một chương trình Java. 
 
 ## Java là gì?
 
